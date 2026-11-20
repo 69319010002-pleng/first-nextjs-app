@@ -6,7 +6,7 @@ export default function Home() {
 
   return (
     <main style={{ padding: "40px", fontFamily: "sans-serif" }}>
-      <h1>สวัสดี! ฉันชื่อ ปริณ สิงห์มัจฉา</h1>
+      <h1>Welcome to Prin Singmutcha Website</h1>
       <p>เว็บไซต์นี้สร้างด้วย Next.js และรันอยู่ภายใน Docker Container</p>
 
       <h2>ทักษะที่กำลังเรียน</h2>
